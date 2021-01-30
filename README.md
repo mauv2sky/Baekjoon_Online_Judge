@@ -1,2 +1,9 @@
-# Baekjoon_Online_Judge
-💡 Step By Step Problem Solving 🚶
+# [백준 온라인 저지](https://www.acmicpc.net/) 문제 풀이
+단계별 문제풀이로 차근차근 나아가기</br>
+
+---------
+</br>
+
+| 문제 번호 | 문제 이름 | JavaScript |
+| --- | --- | --- |
+|     |     |     |

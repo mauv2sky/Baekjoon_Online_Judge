@@ -36,3 +36,10 @@
 | 4 | 10952 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/10000~10999/10952/javascript.js) |
 |  | 10951 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/10000~10999/10951/javascript.js) |
 |  | 1110 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/1000~1999/1110/javascript.js) |
+| 5 | 10818 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/10000~10999/10818/javascript.js) |
+|  | 2562 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/2000~2999/2562/javascript.js) |
+|  | 2577 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/2000~2999/2577/javascript.js) |
+|  | 3052 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/3000~3999/3052/javascript.js) |
+|  | 1546 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/1000~1999/1546/javascript.js) |
+|  | 8958 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/8000~8999/8958/javascript.js) |
+|  | 4344 | [✔️](https://github.com/mauv2sky/Baekjoon_Online_Judge/blob/main/4000~4999/4344/javascript.js) |
